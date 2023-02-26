@@ -1,0 +1,25 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OpenGLPractice016_Module_5_Texture-a-Pyramid.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  5-3 Texturing a Pyramid.cpp
+C:\Users\Lawrence\Git Repos\SNHU_CS_330_Projects\OpenGLPractice016_Module_5_Texture-a-Pyramid\5-3 Texturing a Pyramid.cpp(203,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lawrence\Git Repos\SNHU_CS_330_Projects\OpenGLPractice016_Module_5_Texture-a-Pyramid\5-3 Texturing a Pyramid.cpp(429,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lawrence\Git Repos\SNHU_CS_330_Projects\OpenGLPractice016_Module_5_Texture-a-Pyramid\5-3 Texturing a Pyramid.cpp(430,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lawrence\Git Repos\SNHU_CS_330_Projects\OpenGLPractice016_Module_5_Texture-a-Pyramid\5-3 Texturing a Pyramid.cpp(434,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lawrence\Git Repos\SNHU_CS_330_Projects\OpenGLPractice016_Module_5_Texture-a-Pyramid\5-3 Texturing a Pyramid.cpp(435,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lawrence\Git Repos\SNHU_CS_330_Projects\OpenGLPractice016_Module_5_Texture-a-Pyramid\5-3 Texturing a Pyramid.cpp(437,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lawrence\Git Repos\SNHU_CS_330_Projects\OpenGLPractice016_Module_5_Texture-a-Pyramid\5-3 Texturing a Pyramid.cpp(438,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lawrence\Git Repos\SNHU_CS_330_Projects\OpenGLPractice016_Module_5_Texture-a-Pyramid\5-3 Texturing a Pyramid.cpp(445,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lawrence\Git Repos\SNHU_CS_330_Projects\OpenGLPractice016_Module_5_Texture-a-Pyramid\5-3 Texturing a Pyramid.cpp(518,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lawrence\Git Repos\SNHU_CS_330_Projects\OpenGLPractice016_Module_5_Texture-a-Pyramid\5-3 Texturing a Pyramid.cpp(589,20): warning C4018: '<': signed/unsigned mismatch
+  SceneBuilder.cpp
+C:\Users\Lawrence\Git Repos\SNHU_CS_330_Projects\OpenGLPractice016_Module_5_Texture-a-Pyramid\SceneBuilder.cpp(51,1): warning C4005: 'texture': macro redefinition
+C:\Users\Lawrence\Git Repos\SNHU_CS_330_Projects\OpenGLPractice016_Module_5_Texture-a-Pyramid\SceneBuilder.cpp(30): message : see previous definition of 'texture'
+C:\Users\Lawrence\Git Repos\SNHU_CS_330_Projects\OpenGLPractice016_Module_5_Texture-a-Pyramid\SceneBuilder.cpp(70,1): warning C4005: 'texture': macro redefinition
+C:\Users\Lawrence\Git Repos\SNHU_CS_330_Projects\OpenGLPractice016_Module_5_Texture-a-Pyramid\SceneBuilder.cpp(51): message : see previous definition of 'texture'
+  ShapeBuilder.cpp
+C:\Users\Lawrence\Git Repos\SNHU_CS_330_Projects\OpenGLPractice016_Module_5_Texture-a-Pyramid\ShapeBuilder.cpp(57,8): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Lawrence\Git Repos\SNHU_CS_330_Projects\OpenGLPractice016_Module_5_Texture-a-Pyramid\ShapeBuilder.cpp(164,8): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Lawrence\Git Repos\SNHU_CS_330_Projects\OpenGLPractice016_Module_5_Texture-a-Pyramid\ShapeBuilder.cpp(288,8): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Lawrence\Git Repos\SNHU_CS_330_Projects\OpenGLPractice016_Module_5_Texture-a-Pyramid\ShapeBuilder.cpp(481,8): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLPractice016_Module_5_Texture-a-Pyramid.vcxproj -> C:\Users\Lawrence\Git Repos\SNHU_CS_330_Projects\Debug\5-3 Texturing a Pyramid.exe

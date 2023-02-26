@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (5-3 Texturing a Pyramid.vcxproj, 5-5 Milestone Texturing a Complex Object.vcxproj, 6-3 Lighting a Pyramid.vcxproj, 6-5 Lighting a 3D Scene.vcxproj, OpenGLPractice016_Module_5_Texture-a-Pyramid.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  7-1 Final Project - A 3D Scene.cpp
+C:\Users\Adam\Desktop\week 7\7-1\7-1 Final Project - A 3D Scene.cpp(308,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\Desktop\week 7\7-1\7-1 Final Project - A 3D Scene.cpp(569,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\Desktop\week 7\7-1\7-1 Final Project - A 3D Scene.cpp(570,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\Desktop\week 7\7-1\7-1 Final Project - A 3D Scene.cpp(574,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\Desktop\week 7\7-1\7-1 Final Project - A 3D Scene.cpp(575,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\Desktop\week 7\7-1\7-1 Final Project - A 3D Scene.cpp(577,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\Desktop\week 7\7-1\7-1 Final Project - A 3D Scene.cpp(578,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\Desktop\week 7\7-1\7-1 Final Project - A 3D Scene.cpp(585,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\Desktop\week 7\7-1\7-1 Final Project - A 3D Scene.cpp(663,21): warning C4018: '<': signed/unsigned mismatch
+  7-1 Final Project - A 3D Scene.vcxproj -> C:\Users\Adam\Desktop\week 7\7-1\Debug\7-1 Final Project - A 3D Scene.exe
